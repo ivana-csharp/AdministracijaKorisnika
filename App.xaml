@@ -1,0 +1,8 @@
+﻿<Application x:Class="AdministracijaKorisnika.App"
+             xmlns="http://microsoft.com"
+             xmlns:x="http://microsoft.com"
+             StartupUri="Views/LoginWindow.xaml">
+	<Application.Resources>
+
+	</Application.Resources>
+</Application>
